@@ -5,3 +5,4 @@
 # The Shape of Life
 ## Inside of a beautiful twisted mind
 asdfsdafsa
+[[Emotionen\|Emotionen]]
